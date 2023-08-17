@@ -4,7 +4,13 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+const num1 = 8;
+const num2 = 9;
+const sum = num1 + num2;
+
+console.log("The Game is a Afoot");
+
+
 
 /*  
 Next, PLAY! 
